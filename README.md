@@ -27,7 +27,9 @@
     
 # Repo
 cities/ - raw datasets and output images
+
 datasets/ - corrected datasets
+
 spb|msk|ekb/ - set of datasets on each parsed page 
 
 # Note
