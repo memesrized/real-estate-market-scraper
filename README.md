@@ -23,7 +23,11 @@
     
     or
     
-    you can check `map_notebook.ipynb` and even interact with map.
+    you can check `map_notebook.ipynb` and even interact with map
+    
+    or 
+    
+    `python3.7 -m http.server 2019` and open `http://localhost:2019/YOUR_MAP.html` and screenshot any way you want.
     
 # Repo
 cities/ - raw datasets and output images
