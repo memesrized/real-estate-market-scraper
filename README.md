@@ -25,6 +25,12 @@
     
     you can check `map_notebook.ipynb` and even interact with map.
     
+# Repo
+cities/ - raw datasets and output images
+datasets/ - corrected datasets
+spb|msk|ekb/ - set of datasets on each parsed page 
 
+# Note
+There is no hist by default for Moscow because 2GIS doesnt contain districts (муниципальные округа) for msk. You can still create hist, but it will be grouped by street name.
 
 ![alt text](https://i.kym-cdn.com/entries/icons/original/000/021/311/free.jpg)
