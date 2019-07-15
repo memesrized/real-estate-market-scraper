@@ -6,9 +6,11 @@
  
 # How to use 
 1. Setup requirements described above.
-2. Setup config with your Google maps API key. (turn on GeocoderAPI and JavascriptAPI).
+2. Setup config with your Google maps API key (turn on GeocoderAPI and JavascriptAPI).
 
     `$ python set_config.py YOUR_KEY`
+    
+    Contact me if you need my key.
     
 3. Run commands for each city
 
